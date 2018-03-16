@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WaterMeterReader</string>
+    <string name="title_meter_detail">Meter Detail</string>
+</resources>
